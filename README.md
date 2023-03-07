@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Vue 3, Vite & Storybook
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+My first go at [*Storybook* for *Vue*](https://storybook.js.org/docs/vue/get-started/introduction)
+### Guide
 
-## Recommended IDE Setup
+1. Create a new Vite project → `npm create vite@latest`
+   1. `cd` to the project
+   2. `nom install` it
+2. Add storybook → `npx storybook init`
+3. Once installed you can run Storybook with → `npm run storybook`
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+> [Read the full guide on my Notion](https://yonatankof.notion.site/Storybook-9e244ac716f548d7a1bebc09d2d98e39)
